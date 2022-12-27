@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 
 @RestController
 @RequestMapping("/persona")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://registropruebadeploy.firebaseapp.com")
 public class PersonaController {
     
     @Autowired
