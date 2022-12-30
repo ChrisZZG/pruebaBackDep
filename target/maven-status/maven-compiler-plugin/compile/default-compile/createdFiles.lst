@@ -1,1 +1,7 @@
+com\ejemploDeploy\dpers\Entity\Persona.class
 com\ejemploDeploy\dpers\DpersApplication.class
+com\ejemploDeploy\dpers\Controller\Mensaje.class
+com\ejemploDeploy\dpers\Controller\PersonaController.class
+com\ejemploDeploy\dpers\Dto\dtoPersona.class
+com\ejemploDeploy\dpers\Repository\IRepositoryPersona.class
+com\ejemploDeploy\dpers\Service\ServicePersona.class
