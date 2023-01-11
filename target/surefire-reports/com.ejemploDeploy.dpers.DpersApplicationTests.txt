@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ejemploDeploy.dpers.DpersApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.732 s - in com.ejemploDeploy.dpers.DpersApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.293 s - in com.ejemploDeploy.dpers.DpersApplicationTests
